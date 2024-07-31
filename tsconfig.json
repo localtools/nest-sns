@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": false,
+    "strict": true,
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "noLib": false,
+    "emitDecoratorMetadata": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "target": "es6",
+    "sourceMap": false,
+    "outDir": "./dist",
+    "skipLibCheck": true,
+    "baseUrl": "./"
+  }
+}
