@@ -1,13 +1,13 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/hebertcisco/nest-sns/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/hebertcisco/nest-sns/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/localtools/nest-sns/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/localtools/nest-sns/tree/main)
 
-[![Node.js build and publish package](https://github.com/hebertcisco/nest-sns/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/hebertcisco/nest-sns/actions/workflows/npm-publish.yml)
+[![Node.js build and publish package](https://github.com/localtools/nest-sns/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/localtools/nest-sns/actions/workflows/npm-publish.yml)
 
-[![Running Code Coverage](https://github.com/hebertcisco/nest-sns/actions/workflows/coverage.yml/badge.svg)](https://github.com/hebertcisco/nest-sns/actions/workflows/coverage.yml)
+[![Running Code Coverage](https://github.com/localtools/nest-sns/actions/workflows/coverage.yml/badge.svg)](https://github.com/localtools/nest-sns/actions/workflows/coverage.yml)
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Nestjs](https://img.shields.io/badge/Nestjs-ea2845?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Free. Built on open source. Runs everywhere.](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)](https://github.com/hebertcisco/nest-sns/actions)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)](https://github.com/localtools/nest-sns/actions)
 
 > Amazon Simple Notification Service module 🌐
 
@@ -294,9 +294,9 @@ Or buy me a coffee 🙌🏾
 
 <a>
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hebertcisco/nest-sns&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hebertcisco/nest-sns&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hebertcisco/nest-sns&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=localtools/nest-sns&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=localtools/nest-sns&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=localtools/nest-sns&type=Date" />
  </picture>
 </a>
 

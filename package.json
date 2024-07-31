@@ -85,9 +85,9 @@
     "aws"
   ],
   "license": "MIT",
-  "url": "https://github.com/hebertcisco/nest-sns#readme",
+  "url": "https://github.com/localtools/nest-sns#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hebertcisco/nest-sns"
+    "url": "https://github.com/localtools/nest-sns"
   }
 }
